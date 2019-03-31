@@ -1,0 +1,45 @@
+<!--
+Project Name: Fish Creek (HW9)
+Author: Isabel Nichols
+Date Last Modified: March 25, 2019
+-->
+<--!Question #1-->
+<!DocType html>
+<html lang="en">
+<head>
+<title>Example site</title>
+<meta charset="utf-8">
+<style type="text/css">
+   a{
+        text-decoration: none; 
+    } 
+    body{
+        background-color: white;
+        color:black;
+        font-family: Arial;
+    }
+    .new{
+        font-weight:bold;
+        font-style:italic;
+    }
+    
+</style>
+</head>
+<body>
+    <h1> here is my example site
+    <p class="new">
+        here is a random paragraph about myself. I am a singer, guitar player, piano player.
+    </p>   
+</body>
+</html>
+
+<--! Question #2-->
+body{
+    background-color:#FFF8DC;
+    Color:000099;
+    font-family: Arial;
+}
+.new{
+    font-weight:bold;
+    font-style:italic;  
+}
