@@ -18,6 +18,11 @@ Date Last Modified: March 25, 2019
         color:black;
         font-family: Arial;
     }
+	
+colors should be in HEX
+should all be for a
+missing font list
+
     .new{
         font-weight:bold;
         font-style:italic;
@@ -43,3 +48,5 @@ body{
     font-weight:bold;
     font-style:italic;  
 }
+
+should be id, not class!
